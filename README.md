@@ -12,8 +12,8 @@ Ch3z2z@github.com:~$ cat interests.md
 🔒 Security research
 
 Ch3z2z@github.com:~$ cat contacts.md
-https://t.me/another_useless_nickname
-Chernobai.e.s@yandex.ru
+Telegram: @another_useless_nickname
+Email: Chernobai.e.s@yandex.ru
 
 Ch3z2z@github.com:~$
 ```
