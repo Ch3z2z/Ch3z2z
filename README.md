@@ -5,12 +5,12 @@ Student of NovSU, Backend Developer
 ```
 
 ## 📌 Current Interests
-
-- 🌐 VPN & networking
-- ☁️ Self-hosted infrastructure
+- 🌐 Networking & VPN infrastructure  
+- ☁️ Self-hosted services
+- 🔌 REST API development
+- ⚙️ Backend engineering
 - 🤖 AI integrations
 - 🔒 Security research
-
 
 ## 📫 Contact
 
