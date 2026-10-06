@@ -4,7 +4,7 @@
 
 <p align="center">
   <sub>
-    <a href="https://ch3z2z.info.gf/">Website</a> | 
+    <a href="https://chezzz.ru/">Website</a> | 
     <a href="https://t.me/another_useless_nickname">Telegram</a> | 
     <a href="mailto:chernobai.e.s@yandex.ru">Email</a>
   </sub>
